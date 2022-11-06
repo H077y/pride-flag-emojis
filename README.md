@@ -25,4 +25,4 @@ We have a Discord server specifically for hosting these emojis. If you don't wan
 ![image](https://user-images.githubusercontent.com/64114013/200182065-c6898745-5102-4338-a197-5cd5cdbe51dd.png)
 ### Requesting Flags
 You can request new flags by making a pull request/issue, or preferably by joining our [Discord server](https://discord.gg/8w6uVTEnJJ) and making a post in the `#flag-requests` forum channel.\
-If you would just like to make your own flag, download your preferred template file.
+If you would just like to make your own flag, download your [preferred template file](/templates/), paste your flag where it says `PUT FLAG HERE`, resize it accordingly, and export as `.png`.
