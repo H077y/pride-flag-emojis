@@ -16,6 +16,7 @@ Download the `.kra` template file from this folder, then drag-and-drop it into K
 Copy your flag from your desired source.\
 ![image](https://user-images.githubusercontent.com/64114013/203589117-a901ccc7-0b6c-4880-91bd-419c7d6d16a8.png)
 ### If you're using an image from a source such as the [LGBTQIA+ wiki](https://lgbtqia.fandom.com/wiki/), **do not** copy it in its raw form on the page.
+Your flag will appear much smaller than the original file, so copying it raw will give you a much better sized flag.
 
 ![image](https://user-images.githubusercontent.com/64114013/203589870-ac40b94e-7af9-4514-b83e-dac26a9f4a2c.png)\
 Instead, left click the image to see the raw image, then copy that one.\
