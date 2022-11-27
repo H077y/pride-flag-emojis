@@ -1,9 +1,13 @@
 # Welcome to the Pride Flag Emoji GitHub!
 Home to all of the custom-made pride flags for Discord.
 
-### Discord Server
+## Requesting Flags
+You can request new flags by making a pull request/issue, or preferably by joining our [Discord server](https://discord.gg/8w6uVTEnJJ) and making a post in the `#flag-requests` forum channel.\
+If you would just like to make your own flag, download your [preferred template file](/templates/), paste your flag where it says `PUT FLAG HERE`, resize it accordingly, and export as `.png`.
+
+## Discord Server
 We have a Discord server specifically for hosting these emojis. If you don't want to join it, that's fine! Just download whatever flags you want and upload them to your own server. Otherwise, everyone is welcome to join our [Discord server](https://discord.gg/8w6uVTEnJJ).
-#### We have:
+### We have:
 - PluralKit for systems, genderfluid people, genderflux people, otherkin/therian, and any other use except roleplaying and messing around.\
 ![image](https://user-images.githubusercontent.com/64114013/200181679-6a2b1001-0d38-48b5-8777-bdb2beaf1402.png)
 - A large variety of pronoun roles.\
@@ -23,6 +27,3 @@ We have a Discord server specifically for hosting these emojis. If you don't wan
 - Activity roles that track your activity over 2 weeks, and reward you the more roles you earn.\
 ![image](https://user-images.githubusercontent.com/64114013/200182104-3c68a0ac-de0d-4434-a0db-a4fcb6ca3f5a.png)
 ![image](https://user-images.githubusercontent.com/64114013/200182065-c6898745-5102-4338-a197-5cd5cdbe51dd.png)
-### Requesting Flags
-You can request new flags by making a pull request/issue, or preferably by joining our [Discord server](https://discord.gg/8w6uVTEnJJ) and making a post in the `#flag-requests` forum channel.\
-If you would just like to make your own flag, download your [preferred template file](/templates/), paste your flag where it says `PUT FLAG HERE`, resize it accordingly, and export as `.png`.
