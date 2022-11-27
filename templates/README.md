@@ -31,4 +31,9 @@ This is the hardest part of the process as some flags cannot be easily resized. 
 ### If your flag has no special shapes or symbols:
 You can resize it normally as shown below.\
 ![ezgif com-gif-maker (49)](https://user-images.githubusercontent.com/64114013/203594194-aadccb26-1493-4dc0-ad3b-dd98c71916f8.gif)
-# INCOMPLETE. MUST CONTINUE LATER.
+### If your flag has special shapes or symbols that cannot be warped:
+You will have to hold `Shift` while dragging the edges, and you will have to drag either the top, bottom, left, or right of the flag. Do not drag the corners as your flag will most likely not fit perfectly.\
+![ezgif com-gif-maker (52)](https://user-images.githubusercontent.com/64114013/204145707-246c2e21-5467-4bfb-8646-2e5d49069872.gif)
+
+## Upload your flag to Discord, or whever you want it to go!
+And then you're done :D
