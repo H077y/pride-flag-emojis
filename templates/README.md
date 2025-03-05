@@ -35,5 +35,5 @@ You can resize it normally as shown below.\
 You will have to hold `Shift` while dragging the edges, and you will have to drag either the top, bottom, left, or right of the flag. Do not drag the corners as your flag will most likely not fit perfectly.\
 ![ezgif com-gif-maker (52)](https://user-images.githubusercontent.com/64114013/204145707-246c2e21-5467-4bfb-8646-2e5d49069872.gif)
 
-## Upload your flag to Discord, or whever you want it to go!
+## Upload your flag to Discord, or whenever you want it to go!
 And then you're done :D
